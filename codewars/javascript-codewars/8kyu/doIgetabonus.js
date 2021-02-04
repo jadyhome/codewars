@@ -21,9 +21,9 @@
 /////// SOLUTION ///////
 
 function bonusTime(salary, bonus) {
-  let eurosign = "£"
-  let trueTotal = eurosign + salary * 10
-  let falseTotal = eurosign + salary
+  let pound = "£"
+  let trueTotal = pound + salary * 10
+  let falseTotal = pound + salary
 
   if (bonus === true) {
     return trueTotal
