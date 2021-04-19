@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////////////
 // PROMPT
-// https://www.codewars.com/kata/5865a75da5f19147370000c7/train/javascript
+// https://www.codewars.com/kata/5864e2c473bd9c67b70002ba
 
 // This Kata is intended as a small challenge for my students
 // All Star Code Challenge #13
