@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////////////
 // PROMPT
-// https://www.codewars.com/kata/5b39e3772ae7545f650000fc/train/javascript
+// https://www.codewars.com/kata/5aa1bcda373c2eb596000112/train/javascript
 
 // Task
 // Given an array/list [] of n integers , find maximum triplet sum in the array Without duplications.
