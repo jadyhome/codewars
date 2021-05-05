@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////////////
 // PROMPT
-// https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/train/javascript
+// https://www.codewars.com/kata/5681cf0be812b41721000034/train/javascript
 
 // We have a broken message machine that introduces noise to our incoming messages.
 // We know that our messages can't be written using %$&/#·@|º\ª and white characters (like spaces or tabs).
