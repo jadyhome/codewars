@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////////////
 // PROMPT
-// https://www.codewars.com/kata/526571aae218b8ee490006f4/train/javascript
+// https://www.codewars.com/kata/55f810474dc34c5a25000016/train/javascript
 
 // For long period JavaScript warriors trained a lot in coding kata. 
 // But to find way warrior also need physical kata. 
